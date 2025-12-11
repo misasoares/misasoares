@@ -1,6 +1,6 @@
 # Hello, I'm Misael Soares! 
 
-###  AI-Native Full Stack Engineer | NestJS & React Specialist
+###  AI-Native Full Stack Engineer | React & NestJS  Specialist
 
 I am a developer who combines **robust engineering** with **AI-first workflows**. I build scalable, high-performance solutions at 10x speed using advanced AI tools like **Google Antigravity**.
 
