@@ -1,12 +1,17 @@
 # Hello, I'm Misael Soares! 👋
 
-### 🚀 Full Stack Developer | NestJS & React Specialist
+### 🚀 AI-Native Full Stack Engineer | NestJS & React Specialist
 
-I am a developer passionate about building scalable and high-performance solutions. Currently focused on microservices architecture, code quality (TDD), and modern user interfaces.
+I am a developer who combines **robust engineering** with **AI-first workflows**. I build scalable, high-performance solutions at 10x speed using advanced AI tools like **Google Antigravity**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech & AI Stack
+
+**AI & Workflow**
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Native](https://img.shields.io/badge/AI_Native_Workflow-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-7B1FA2?style=for-the-badge&logo=magic&logoColor=white)
 
 **Backend**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -14,7 +19,6 @@ I am a developer passionate about building scalable and high-performance solutio
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,17 +43,17 @@ I am a developer passionate about building scalable and high-performance solutio
 
 #### [🏗️ API CRM MS Baterias](https://github.com/misasoares/api-crm-ms-baterias)
 
-Robust backend for sales and customer management.
+Robust backend for sales/customer management. **"Vibe-coded" in hours using Google Antigravity.**
 
 - **Stack**: NestJS, Prisma, Postgres, Docker.
-- **Highlight**: Modular architecture, 98% test coverage, strict DTO validation.
+- **Highlight**: 98% test coverage, modular architecture, built with AI-speed.
 
 #### [💻 Web CRM MS Baterias](https://github.com/misasoares/web-crm-ms-baterias)
 
-Modern, responsive frontend for the CRM system.
+Modern, responsive frontend for the CRM system. **Built in hours with Google Antigravity.**
 
 - **Stack**: React 19, Material UI v7, Tailwind v4.
-- **Highlight**: Global snackbar notifications, real-world production integration, clear visual documentation.
+- **Highlight**: Global notifications, production-ready UI generated via high-velocity AI workflow.
 
 #### [🎵 Multitrack App](https://github.com/misasoares/multitrack_app)
 
@@ -64,4 +68,3 @@ Mobile application for multi-track audio control.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misaelsoares/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misasoaresms2@gmail.com)
-<!-- Tips: Sign up for wakatime if considering adding coding stats -->
