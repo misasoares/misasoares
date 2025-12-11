@@ -13,6 +13,12 @@ I am a developer who combines **robust engineering** with **AI-first workflows**
 ![AI Native](https://img.shields.io/badge/AI_Native_Workflow-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-7B1FA2?style=for-the-badge&logo=magic&logoColor=white)
 
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 **Backend**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -20,11 +26,6 @@ I am a developer who combines **robust engineering** with **AI-first workflows**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -41,19 +42,20 @@ I am a developer who combines **robust engineering** with **AI-first workflows**
 
 ### 🌟 Featured Projects
 
-#### [🏗️ API CRM MS Baterias](https://github.com/misasoares/api-crm-ms-baterias)
-
-Robust backend for sales/customer management. **"Vibe-coded" in hours using Google Antigravity.**
-
-- **Stack**: NestJS, Prisma, Postgres, Docker.
-- **Highlight**: 98% test coverage, modular architecture, built with AI-speed.
 
 #### [💻 Web CRM MS Baterias](https://github.com/misasoares/web-crm-ms-baterias)
 
 Modern, responsive frontend for the CRM system. **Built in hours with Google Antigravity.**
 
 - **Stack**: React 19, Material UI v7, Tailwind v4.
-- **Highlight**: Global notifications, production-ready UI generated via high-velocity AI workflow.
+- **Highlight**: Global notifications, production-ready UI generated via high-velocity AI workflow
+
+#### [🏗️ API CRM MS Baterias](https://github.com/misasoares/api-crm-ms-baterias)
+
+Robust backend for sales/customer management. **"Vibe-coded" in hours using Google Antigravity.**
+
+- **Stack**: NestJS, Prisma, Postgres, Docker.
+- **Highlight**: 98% test coverage, modular architecture, built with AI-speed.
 
 #### [🎵 Multitrack App](https://github.com/misasoares/multitrack_app)
 
