@@ -1,9 +1,10 @@
 # Hello, I'm Misael Soares! 
 
-###  React & NestJS  Specialist
+###  AI-Enhanced Software Engineer | Full Stack & Mobile
 
-I am a developer who combines **robust engineering** with **AI-first workflows**. I build scalable, high-performance solutions at 10x speed using advanced AI tools like **Google Antigravity**.
+I am a software engineer who combines **robust architecture** with **AI-native workflows**. By leveraging tools like **Cursor, Google Antigravity, Trae AI, and LLMs**, I build scalable, production-grade solutions at **10x velocity**.
 
+My focus is not just writing code, but **shipping products**: from database modeling to complex UI and CI/CD, in record time.
 ---
 
 ### 🛠️ Tech & AI Stack
@@ -29,19 +30,13 @@ I am a developer who combines **robust engineering** with **AI-first workflows**
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/misasoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misasoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misasoares&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
 
 ### 🌟 Featured Projects
 
+#### 🎙️ [WIP] Sales AI Simulator (Voice Agent)
+A high-fidelity roleplay training app for sales professionals.
+* **Tech:** OpenAI Realtime API (GPT-4o), WebSockets, PCM16 Audio Streaming, Flutter.
+* **Highlight:** engineered a bidirectional voice loop with Server-Side VAD (Voice Activity Detection) to simulate natural, interruptible human conversation.
 
 #### [💻 Web CRM MS Baterias](https://github.com/misasoares/web-crm-ms-baterias)
 
