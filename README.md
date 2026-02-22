@@ -56,7 +56,7 @@ Robust backend for sales/customer management. **"Vibe-coded" in hours using Goog
 
 Mobile application for multi-track audio control.
 
-- **Stack**: Flutter / Mobile.
+- **Stack**: Flutter / C++ / Mobile.
 - **Highlight**: Real-time audio manipulation and intuitive user interface.
 
 ---
