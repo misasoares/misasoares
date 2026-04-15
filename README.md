@@ -25,6 +25,23 @@ Utilizo ferramentas de ponta e desenvolvimento assistido por IA para automatizar
 
 ---
 
+### 📊 Estatísticas e Atividade
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misasoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misasoares&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misasoares&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misasoares&theme=tokyonight" />
+</p>
+
+---
+
 ### 🌟 Experiência e Projetos de Impacto
 
 #### 🏛️ Sistema de Gestão e Controladoria (ERP)
